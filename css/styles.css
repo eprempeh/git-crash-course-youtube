@@ -8,5 +8,5 @@ body {
 }
 
 body {
-    background: cyan url('../images/broker.jpg') no-repeat 100% 100%;
+    background: cyan url('../images/broker.jpg') no-repeat scroll top center;
 }
