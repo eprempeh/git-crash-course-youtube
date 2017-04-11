@@ -8,5 +8,5 @@ body {
 }
 
 body {
-    background-color: cyan;
+    background: cyan url('../images/broker.jpg') no-repeat 100% 100%;
 }
