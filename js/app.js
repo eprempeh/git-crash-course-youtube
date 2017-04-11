@@ -1,3 +1,3 @@
 (function(){
-    console.info('App was started');
+    console.info('...started');
 })()
